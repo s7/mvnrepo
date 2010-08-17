@@ -1,6 +1,7 @@
 The scale7 maven repo.
 
 To use add the following to your pom.xml:
+<code>
 <repository>
     <id>maven.scale7.org</id>
     <name>Scale7 Maven Repo</name>
@@ -9,3 +10,4 @@ To use add the following to your pom.xml:
         <enabled>true</enabled>
     </snapshots>
 </repository>
+</code>
