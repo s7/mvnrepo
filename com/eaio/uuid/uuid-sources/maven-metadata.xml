@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.eaio.uuid</groupId>
-  <artifactId>uuid</artifactId>
+  <artifactId>uuid-sources</artifactId>
   <version>3.2</version>
   <versioning>
     <versions>
       <version>3.2</version>
     </versions>
-    <lastUpdated>20100817145433</lastUpdated>
+    <lastUpdated>20100817145418</lastUpdated>
   </versioning>
 </metadata>
