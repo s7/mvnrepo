@@ -4,10 +4,11 @@
   <artifactId>scale7-pelops</artifactId>
   <version>0.902-0.7.0</version>
   <versioning>
+    <release>0.903-0.7.0-SNAPSHOT</release>
     <versions>
       <version>0.902-0.7.0</version>
       <version>0.903-0.7.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20100817234028</lastUpdated>
+    <lastUpdated>20100821064425</lastUpdated>
   </versioning>
 </metadata>
