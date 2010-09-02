@@ -4,11 +4,12 @@
   <artifactId>scale7-cages</artifactId>
   <version>0.6</version>
   <versioning>
+    <release>0.6.1-SNAPSHOT</release>
     <versions>
       <version>0.6</version>
       <version>0.6-SNAPSHOT</version>
       <version>0.6.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20100820214611</lastUpdated>
+    <lastUpdated>20100902135704</lastUpdated>
   </versioning>
 </metadata>
