@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.cassandra</groupId>
+  <artifactId>apache-cassandra</artifactId>
+  <version>0.7.0-rc1-r1037265</version>
+  <versioning>
+    <versions>
+      <version>0.7.0-rc1-r1037265</version>
+    </versions>
+    <lastUpdated>20101123042908</lastUpdated>
+  </versioning>
+</metadata>
