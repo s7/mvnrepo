@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.scale7</groupId>
+  <artifactId>scale7-pelops</artifactId>
+  <version>1.2-0.8.x-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20110520.051739</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20110520051739</lastUpdated>
+  </versioning>
+</metadata>

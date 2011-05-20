@@ -3,7 +3,7 @@
   <groupId>org.scale7</groupId>
   <artifactId>scale7-pelops</artifactId>
   <versioning>
-    <release>1.1-0.7.x</release>
+    <release>1.2-0.8.x-SNAPSHOT</release>
     <versions>
       <version>0.902-0.7.0</version>
       <version>0.903-0.7.0-SNAPSHOT</version>
@@ -24,7 +24,8 @@
       <version>1.1-0.8.x-SNAPSHOT</version>
       <version>1.1-0.7.x</version>
       <version>1.2-0.7.x-SNAPSHOT</version>
+      <version>1.2-0.8.x-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110520050739</lastUpdated>
+    <lastUpdated>20110520051739</lastUpdated>
   </versioning>
 </metadata>
